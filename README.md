@@ -1,10 +1,9 @@
-![banner](./banner.png)
 
 <div align="center">
 
 <img src="https://contractfoundry.web.app/icon512.png" alt="Contract Foundry Logo" width="120"/>
 
-# 🧱 Contract Foundry Wallet (Beta)
+# 🧱 Contract Foundry Wallet 
 
 ### Non-Custodial • Escrow • P2P Payments • Onchain Document Verification • Verifiable Credentials • Decentralized Identity
 
@@ -22,9 +21,6 @@
 </a>
 
 <p>Currently available for <b>Android</b> — iOS and Web dApp versions coming soon.</p>
-
-<img src="https://contractfoundry.web.app/screenshot1.png" alt="Contract Foundry Wallet Screenshot" width="260" style="border-radius: 16px; margin: 10px;"/>
-<img src="https://contractfoundry.web.app/screenshot2.png" alt="Contract Foundry Dashboard" width="260" style="border-radius: 16px; margin: 10px;"/>
 
 </div>
 
