@@ -25,19 +25,29 @@
 </div>
 
 ---
+## Introduction
 
-## 🚀 Introduction
+**Contract Foundry** is a **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
 
-**Contract Foundry** is a **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial** infrastructure for payments, agreements, and document verification.
+By combining **escrow and pledge contracts**, **onchain document verification**, **verifiable credentials**, and **decentralized identity (DID)**, Contract Foundry enables individuals and enterprises to interact directly onchain with full ownership of their assets, documents, and digital identity.
 
-It enables users to manage digital contracts, funds, and data **securely and transparently on-chain**, without intermediaries or custodians.  
-By combining **trustless escrow**, **onchain document verification**, and **decentralized identity**, Contract Foundry ensures users retain full control over their assets and privacy.
+The ecosystem—comprising **escrow contracts, pledge contracts, verifiable documents, document registry, credentials registry, DID registry, user management, and subscription services**—is now **fully live on Polygon**, enabling real-world, enterprise-grade trustless interactions.
+
+This architecture delivers a **secure, censorship-resistant, and fraud-proof ecosystem** where agreements, payments, and verifications are automated and self-sovereign.
 
 ---
 
-## 🧩 Key Features
+## Mission and Vision
 
-| Feature | Description |
+Our mission is to build a world where individuals and organizations have **complete sovereignty** over their assets, data, and digital identity—empowering them to engage in **trustless, borderless agreements** without dependence on intermediaries.
+
+We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, Contract Foundry redefines how people transact, verify, and trust—onchain and on their own terms.
+
+---
+
+## 🧩 Services
+
+| Service | Description |
 |----------|--------------|
 | 💰 **Escrow** | Low–mid value P2P payments with flat deposit and minimal withdrawal fee. |
 | 🤝 **Pledge Contracts** | Advanced escrow with milestones, revocation, and document binding. |
