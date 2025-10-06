@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://contractfoundry.web.app/icon512.png" alt="Contract Foundry Logo" width="120"/>
+<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="Contract Foundry Logo" width="120"/>
 
-# 🧱 Contract Foundry Wallet 
+# Contract Foundry Wallet 
 
 ### Non-Custodial • Escrow • P2P Payments • Onchain Document Verification • Verifiable Credentials • Decentralized Identity
 
