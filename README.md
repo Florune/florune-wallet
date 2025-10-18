@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="Contract Foundry Logo" width="120"/>
+<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="MetaRune Logo" width="120"/>
 
-# Contract Foundry Wallet 
+# MetaRune Wallet 
 
 ### Non-Custodial • Escrow • P2P Payments • Onchain Document Verification • Verifiable Credentials • Decentralized Identity
 
@@ -27,9 +27,9 @@
 ---
 ## Introduction
 
-**Contract Foundry** is a **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
+**MetaRune** is a **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
 
-By combining **escrow and pledge contracts**, **onchain document verification**, **verifiable credentials**, and **decentralized identity (DID)**, Contract Foundry enables individuals and enterprises to interact directly onchain with full ownership of their assets, documents, and digital identity.
+By combining **escrow and pledge contracts**, **onchain document verification**, **verifiable credentials**, and **decentralized identity (DID)**, MetaRune enables individuals and enterprises to interact directly onchain with full ownership of their assets, documents, and digital identity.
 
 The ecosystem—comprising **escrow contracts, pledge contracts, verifiable documents, document registry, credentials registry, DID registry, user management, and subscription services**—is now **fully live on Polygon**, enabling real-world, enterprise-grade trustless interactions.
 
@@ -41,7 +41,7 @@ This architecture delivers a **secure, censorship-resistant, and fraud-proof eco
 
 Our mission is to build a world where individuals and organizations have **complete sovereignty** over their assets, data, and digital identity—empowering them to engage in **trustless, borderless agreements** without dependence on intermediaries.
 
-We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, Contract Foundry redefines how people transact, verify, and trust—onchain and on their own terms.
+We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, MetaRune redefines how people transact, verify, and trust—onchain and on their own terms.
 
 ---
 
@@ -98,7 +98,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ## 🔗 Ecosystem Overview
 
-Contract Foundry merges **trustless smart contracts**, **onchain verification**, and **self-sovereign identity** into one ecosystem.  
+MetaRune merges **trustless smart contracts**, **onchain verification**, and **self-sovereign identity** into one ecosystem.  
 The **mobile-first wallet** stores private keys, credentials, and documents locally, enabling **censorship-resistant** and **privacy-preserving** automation.
 
 Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage — with onchain tamper-proof verification and signature binding.
@@ -146,7 +146,7 @@ We welcome early testers and beta feedback!
 
 ## 🧾 License
 
-© Contract Foundry — All rights reserved.  
+© MetaRune — All rights reserved.  
 This repository distributes a **closed-source binary (APK)** for beta testing.  
 Smart contracts and source code remain proprietary.
 
