@@ -69,7 +69,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 - 🟢 Asset Paywall  
 - 🟢 Document Registry  
 - 🟢 Credentials Registry  
-- 🟢 **CFGT Token** — Non-tradable **utility token** used as **ecosystem gas** for deploying contracts.
+- 🟢 **Rune Token** — Non-tradable **utility token** used as **ecosystem gas** for deploying contracts.
 
 > 🧭 Coming soon: **Arbitrum** network support.
 
@@ -88,7 +88,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ## 🪙 Token Utility
 
-### **CFGT Token**
+### **Rune Token**
 - 🧩 Non-tradable ecosystem utility token  
 - ⚙️ Used for gas and contract deployment fees within the app  
 - 🔒 Prevents fraud, spam, and unauthorized execution  
