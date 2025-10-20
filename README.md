@@ -27,7 +27,7 @@
 ---
 ## Introduction
 
-**Florune** is a **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
+**Florune** is an non-custodial wallet and official inteface of ContractFoundry ecosystem, ContractFoundry is an **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
 
 By combining **escrow and pledge contracts**, **onchain document verification**, **verifiable credentials**, and **decentralized identity (DID)**, Florune enables individuals and enterprises to interact directly onchain with full ownership of their assets, documents, and digital identity.
 
