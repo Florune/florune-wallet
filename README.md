@@ -96,7 +96,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ---
 
-##Ecosystem Overview
+## Ecosystem Overview
 
 Florune merges **trustless smart contracts**, **onchain verification**, and **self-sovereign identity** into one ecosystem.  
 The **mobile-first wallet** stores private keys, credentials, and documents locally, enabling **censorship-resistant** and **privacy-preserving** automation.
