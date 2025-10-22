@@ -146,7 +146,7 @@ We welcome early testers and beta feedback!
 
 ## 🧾 License
 
-© Florune — All rights reserved.  
+© ContractFoundry — All rights reserved. Florune - Early Access  
 This repository distributes a **closed-source binary (APK)** for beta testing.  
 Smart contracts and source code remain proprietary.
 
