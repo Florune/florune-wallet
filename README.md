@@ -45,17 +45,17 @@ We envision a future where **privacy, security, and autonomy** are built into ev
 
 ---
 
-## 🧩 Services
+## Services
 
 | Service | Description |
 |----------|--------------|
-| 💰 **Escrow** | Low–mid value P2P payments with flat deposit and minimal withdrawal fee. |
-| 🤝 **Pledge Contracts** | Advanced escrow with milestones, revocation, and document binding. |
-| 📄 **Verifiable Documents** | Secure, wallet-first, revocable documents with onchain proof. |
-| 🗃️ **Document Registry** | Lightweight public registry for timestamped document proofs. |
-| 🪪 **DID (Decentralized Identity)** | Lightweight self-sovereign identity (ERC-1056 compliant). |
-| 🎓 **Verifiable Credentials** | W3C-compliant credentials with selective disclosure. |
-| 🔐 **Asset Paywall** | Token-gated file distribution via onchain payment contracts. |
+| **Escrow** | Low–mid value P2P payments with flat deposit and minimal withdrawal fee. |
+| **Pledge Contracts** | Advanced escrow with milestones, revocation, and document binding. |
+| **Verifiable Documents** | Secure, wallet-first, revocable documents with onchain proof. |
+| **Document Registry** | Lightweight public registry for timestamped document proofs. |
+| **DID (Decentralized Identity)** | Lightweight self-sovereign identity (ERC-1056 compliant). |
+| **Verifiable Credentials** | W3C-compliant credentials with selective disclosure. |
+| **Asset Paywall** | Token-gated file distribution via onchain payment contracts. |
 
 ---
 
@@ -75,7 +75,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ---
 
-## 💼 Use Cases
+##Use Cases
 
 - **Freelance & Gig Economy** — secure client/freelancer escrows  
 - **B2B & Enterprise Agreements** — milestone-based pledge contracts  
@@ -86,17 +86,17 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ---
 
-## 🪙 Token Utility
+##Token Utility
 
 ### **Rune Token**
-- 🧩 Non-tradable ecosystem utility token  
-- ⚙️ Used for gas and contract deployment fees within the app  
-- 🔒 Prevents fraud, spam, and unauthorized execution  
-- 🚫 Not listed or traded on exchanges  
+- Non-tradable ecosystem utility token  
+- Used for gas and contract deployment fees within the app  
+- Prevents fraud, spam, and unauthorized execution  
+- Not listed or traded on exchanges  
 
 ---
 
-## 🔗 Ecosystem Overview
+##Ecosystem Overview
 
 Florune merges **trustless smart contracts**, **onchain verification**, and **self-sovereign identity** into one ecosystem.  
 The **mobile-first wallet** stores private keys, credentials, and documents locally, enabling **censorship-resistant** and **privacy-preserving** automation.
@@ -105,13 +105,13 @@ Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage
 
 ---
 
-## 🧠 Mission & Vision
+##Mission & Vision
 
 > To create a world where individuals and enterprises have **complete sovereignty** over their assets and data — enabling **trustless, borderless agreements** with **secure and verifiable digital identity**.
 
 ---
 
-## 📲 Download & Installation
+##Download & Installation
 
 1. Visit the [**Releases Page**](../../releases/latest)  
 2. Download the latest `.apk`  
@@ -123,7 +123,7 @@ Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage
 
 ---
 
-## 🧑‍💻 Reporting Bugs & Support
+##Stay Update
 
 We welcome early testers and beta feedback!  
 
