@@ -127,10 +127,10 @@ Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage
 
 We welcome early testers and beta feedback!  
 
-- 📢 **Telegram:** [t.me/contractfoundry](https://t.me/floruneapp)  
-- 🌐 **Website:** [contractfoundry.web.app](https://florune.net)  
-- 🩵 **Bluesky:** [contractfoundry.bsky.social](https://bsky.app/profile/florune.net)  
-- 🖤 **X (Twitter):** [@contractfoundry](https://x.com/florune_dapp)
+- 📢 **Telegram:** [@floruneapp](https://t.me/floruneapp)  
+- 🌐 **Website:** [florune.net](https://florune.net)  
+- 🩵 **Bluesky:** [@florune.net](https://bsky.app/profile/florune.net)  
+- 🖤 **X (Twitter):** [@florune_dapp](https://x.com/florune_dapp)
 
 ---
 
@@ -146,7 +146,7 @@ We welcome early testers and beta feedback!
 
 ## 🧾 License
 
-© ContractFoundry — All rights reserved. Florune - Early Access  
+© ContractFoundry — All rights reserved. Florune - Early Access.
 This repository distributes a **closed-source binary (APK)** for beta testing.  
 Smart contracts and source code remain proprietary.
 
