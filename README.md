@@ -127,10 +127,10 @@ Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage
 
 We welcome early testers and beta feedback!  
 
-- 📢 **Telegram:** [t.me/contractfoundry](https://t.me/contractfoundry)  
-- 🌐 **Website:** [contractfoundry.web.app](https://contractfoundry.web.app/)  
-- 🩵 **Bluesky:** [contractfoundry.bsky.social](https://bsky.app/profile/contractfoundry.bsky.social)  
-- 🖤 **X (Twitter):** [@contractfoundry](https://x.com/contractfoundry)
+- 📢 **Telegram:** [t.me/contractfoundry](https://t.me/floruneapp)  
+- 🌐 **Website:** [contractfoundry.web.app](https://florune.net)  
+- 🩵 **Bluesky:** [contractfoundry.bsky.social](https://bsky.app/profile/florune.net)  
+- 🖤 **X (Twitter):** [@contractfoundry](https://x.com/florune_dapp)
 
 ---
 
