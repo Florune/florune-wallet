@@ -75,7 +75,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ---
 
-##Use Cases
+## Use Cases
 
 - **Freelance & Gig Economy** — secure client/freelancer escrows  
 - **B2B & Enterprise Agreements** — milestone-based pledge contracts  
@@ -86,7 +86,7 @@ All core contracts are **live on Polygon** and fully functional in beta:
 
 ---
 
-##Token Utility
+## Token Utility
 
 ### **Rune Token**
 - Non-tradable ecosystem utility token  
@@ -105,32 +105,32 @@ Documents can be self-hosted using **IPFS**, **Arweave**, or traditional storage
 
 ---
 
-##Mission & Vision
+## Mission & Vision
 
 > To create a world where individuals and enterprises have **complete sovereignty** over their assets and data — enabling **trustless, borderless agreements** with **secure and verifiable digital identity**.
 
 ---
 
-##Download & Installation
+## Download & Installation
 
 1. Visit the [**Releases Page**](../../releases/latest)  
 2. Download the latest `.apk`  
 3. Install on your Android device (allow installs from trusted sources)  
 4. Open the app and create/import your wallet to get started  
 
-> 🧱 All interactions are executed transparently on-chain.  
-> 📄 Your documents and data remain self-hosted and verifiable.
+> All interactions are executed transparently on-chain.  
+> Your documents and data remain self-hosted and verifiable.
 
 ---
 
-##Stay Update
+## Stay Update
 
 We welcome early testers and beta feedback!  
 
-- 📢 **Telegram:** [@floruneapp](https://t.me/floruneapp)  
-- 🌐 **Website:** [florune.net](https://florune.net)  
-- 🩵 **Bluesky:** [@florune.net](https://bsky.app/profile/florune.net)  
-- 🖤 **X (Twitter):** [@florune_dapp](https://x.com/florune_dapp)
+- **Telegram:** [@floruneapp](https://t.me/floruneapp)  
+- **Website:** [florune.net](https://florune.net)  
+- **Bluesky:** [@florune.net](https://bsky.app/profile/florune.net)  
+- **X (Twitter):** [@florune_dapp](https://x.com/florune_dapp)
 
 ---
 
@@ -144,7 +144,7 @@ We welcome early testers and beta feedback!
 
 ---
 
-## 🧾 License
+## License
 
 © ContractFoundry — All rights reserved. Florune - Early Access.
 This repository distributes a **closed-source binary (APK)** for beta testing.  
