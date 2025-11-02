@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/⬇️%20Download-Android_Beta-brightgreen?style=for-the-badge&logo=android" alt="Download Android Beta">
 </a>
 
-<p>Currently available for <b>Android</b> — iOS and Web dApp versions coming soon.</p>
+<p>Currently available for <b>Android</b> — Web dApp version coming soon.</p>
 
 </div>
 
