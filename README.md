@@ -45,6 +45,14 @@ We envision a future where **privacy, security, and autonomy** are built into ev
 
 ---
 
+## Florune Wallet: The Secure Gateway to the ContractFoundry Ecosystem
+
+Florune Wallet is the official, non-custodial interface for the Contract Foundry ecosystem, engineered to provide users with direct and sovereign control over their onchain agreements and assets. It functions as the primary command center for interacting with ecosystem smart contracts, enabling the management of digital identity, the execution of legally-binding document signatures, and the autonomous control of financial obligations and subscriptions.
+
+Architected with security as its foundation, the wallet ensures all cryptographic operations from private key management to transaction and document signing are processed locally on the user's device. Private keys are secured within a multi-encryption-layered local database and never leave the client environment. Developed according to stringent secure coding principles, this design eliminates central points of failure, guaranteeing that users retain absolute, non-custodial control over their data and funds while engaging with the enterprise-grade capabilities of the Contract Foundry.
+
+---
+
 ## Services
 
 | Service | Description |
