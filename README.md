@@ -146,7 +146,7 @@ Florune provides comprehensive decentralized application and wallet functionalit
 
 ## Supported Languages
 
-* Persian
+* Farsi
 * Arabic
 * English
 * French
