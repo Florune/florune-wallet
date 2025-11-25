@@ -5,11 +5,12 @@
 
 # Florune Wallet 
 
-### Non-Custodial • Escrow • P2P Payments • Onchain Document Verification • Verifiable Credentials • Decentralized Identity
+### Non-Custodial On-Chain Agreement Infrastructure
 
 ![License](https://img.shields.io/badge/license-proprietary-red)
 ![Status](https://img.shields.io/badge/status-beta-yellow)
 ![Network](https://img.shields.io/badge/network-Polygon-8247e5)
+![Network](https://img.shields.io/badge/network-Arbitrum-28a0f0)
 ![Identity](https://img.shields.io/badge/DID-W3C_Compliant-blue)
 ![Payments](https://img.shields.io/badge/Payments-Trustless_Escrow-green)
 ![Web3](https://img.shields.io/badge/Protocol-Web3_Ready-purple)
@@ -21,6 +22,16 @@
 </a>
 
 <p>Currently available for <b>Android</b> — Web dApp version coming soon.</p>
+
+</div>
+
+---
+<div align="center">
+  
+![Telegram](https://img.shields.io/badge/Telegram-@floruneapp-0088cc?logo=telegram&logoColor=white)
+![Website](https://img.shields.io/badge/Website-florune.net-4caf50?logo=internet-explorer&logoColor=white)
+![Bluesky](https://img.shields.io/badge/Bluesky-@florune.net-1da1f2?logo=bluesky&logoColor=white)
+![X (Twitter)](https://img.shields.io/badge/X-@florune_dapp-1da1f2?logo=twitter&logoColor=white)
 
 </div>
 
@@ -43,13 +54,13 @@
 
 ## Introduction
 
-**Florune** is an non-custodial wallet and official inteface of ContractFoundry ecosystem, ContractFoundry is an **Smart Contract-as-a-Service (SCaaS)** platform providing **trustless, non-custodial smart contract infrastructure** that empowers users to manage **payments, agreements, and data verification** securely—without intermediaries or centralized authority.
+**Florune** is the inaugural application of the Contract Foundry ecosystem, a sovereign onchain jurisdiction for enterprise-grade agreements.
+      
+This trustless, permissioned infrastructure converges decentralized identity, tamper-proof document verification, and non-custodial smart contracts to replace intermediary-dependent processes with immutable, executable logic.
 
-By combining **escrow and pledge contracts**, **onchain document verification**, **verifiable credentials**, and **decentralized identity (DID)**, Florune enables individuals and enterprises to interact directly onchain with full ownership of their assets, documents, and digital identity.
+Within this environment, financial obligations are bound directly to verifiable actions. Onchain digital signatures autonomously control the flow of capital through P2P escrow and payments, ensuring execution is contingent solely upon cryptographically proven performance.
 
-The ecosystem—comprising **escrow contracts, pledge contracts, verifiable documents, document registry, credentials registry, DID registry, user management, and subscription services**—is now **fully live on Polygon**, enabling real-world, enterprise-grade trustless interactions.
-
-This architecture delivers a **secure, censorship-resistant, and fraud-proof ecosystem** where agreements, payments, and verifications are automated and self-sovereign.
+The result is a closed-loop system that eliminates disputes by design, providing a court-admissible record of truth and establishing a new paradigm of operational integrity.
 
 ---
 
@@ -174,9 +185,5 @@ Patent pending. Florune — Early Access.
 ## Contact
 
 * Email: `info@florune.net`
-* Telegram: [@floruneapp](https://t.me/floruneapp)
-* Website: [florune.net](https://florune.net)
-* Bluesky: [@florune.net](https://bsky.app/profile/florune.net)
-* X (Twitter): [@florune_dapp](https://x.com/florune_dapp)
 
 ---
