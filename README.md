@@ -171,7 +171,7 @@ Florune provides comprehensive decentralized application and wallet functionalit
 
 ## Documentation & More Info
 
-* [Official Website](https://florune.net)
+![Website](https://img.shields.io/badge/Website-florune.net-4caf50?logo=internet-explorer&logoColor=white)
 
 ---
 
