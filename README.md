@@ -86,8 +86,8 @@ Architected with security as its foundation, the wallet ensures all cryptographi
 
 | Service | Description |
 |----------|--------------|
-| **Escrow** | Low–mid value P2P payments with flat deposit and minimal withdrawal fee. |
-| **Pledge Contracts** | Advanced escrow with milestones, revocation, and document binding. |
+| **Escrow** | Arbiterless escrow with flat deposit and minimal withdrawal fee. |
+| **Pledge Contracts** | Advanced progressive P2P payment, revocation, and document binding. |
 | **Verifiable Documents** | Secure, wallet-first, revocable documents with onchain proof. |
 | **Document Registry** | Lightweight public registry for timestamped document proofs. |
 | **DID (Decentralized Identity)** | Lightweight self-sovereign identity (ERC-1056 compliant). |
