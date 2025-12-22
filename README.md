@@ -86,7 +86,7 @@ Architected with security as its foundation, the wallet ensures all cryptographi
 
 | Service | Description |
 |----------|--------------|
-| **Escrow** | Arbiterless escrow with flat deposit and minimal withdrawal fee. |
+| **Escrow** | Arbiterless non-custodial escrow with flat deposit and minimal withdrawal fee. |
 | **Pledge Contracts** | Advanced progressive P2P payment, revocation, and document binding. |
 | **Verifiable Documents** | Secure, wallet-first, revocable documents with onchain proof. |
 | **Document Registry** | Lightweight public registry for timestamped document proofs. |
