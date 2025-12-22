@@ -18,10 +18,12 @@
 ---
 
 <a href="../../releases/latest">
-  <img src="https://img.shields.io/badge/⬇️%20Download-Android_Beta-brightgreen?style=for-the-badge&logo=android" alt="Download Android Beta">
+  <img src="https://img.shields.io/badge/%20Download-Android_Beta-brightgreen?style=for-the-badge&logo=android" alt="Download Android Beta">
 </a>
 
-<p>Currently available for <b>Android</b> — Web dApp version coming soon.</p>
+<a href="https://app.florune.net">
+  <img src="https://img.shields.io/badge/🌐%20Access-Web_dApp-blue?style=for-the-badge&logo=web" alt="Access Web dApp Beta">
+</a>
 
 </div>
 
